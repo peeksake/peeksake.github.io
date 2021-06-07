@@ -270,6 +270,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
+  jekyll-paginate (~> 1.1.0)
   kramdown-parser-gfm
   tzinfo (~> 1.2)
   tzinfo-data
