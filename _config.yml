@@ -10,12 +10,9 @@
 #github_username:  peeksake
 #paginate: 5
 
-title: Dracula GitHub Pages
 show_downloads: false
 google_analytics:
 remote_theme: "dracula/gh-pages"
-plugins:
-  - jekyll-feed
 show_header: true
 
 sass:
@@ -32,9 +29,9 @@ sass:
 #
 ### Build settings
 #markdown: kramdown
-#plugins:
-#  - jekyll-feed
-#  - jekyll-paginate
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
